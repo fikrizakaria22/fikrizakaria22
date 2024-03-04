@@ -1,4 +1,4 @@
--ini akun github saya fikri zakaria
+ini akun github saya fikri zakaria
 
 <!---
 fikrizakaria22/fikrizakaria22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
